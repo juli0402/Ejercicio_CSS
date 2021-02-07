@@ -1,0 +1,15 @@
+#name{
+    background-color: yellowgreen;
+    width: 150px;
+    margin-bottom: 10px;
+}
+#apellido{
+    background-color: yellowgreen;
+    width: 150px;
+    margin-bottom: 10px;
+}
+#Edad{
+    font-weight: bolder;
+    font-size: larger;
+    color: orangered;
+}
